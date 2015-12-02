@@ -1,6 +1,6 @@
 # HelloWorld
-First Hello World
+GitHub
 
 ================
 
-This is my first code in Github.
+This is my first code in GitHub.
